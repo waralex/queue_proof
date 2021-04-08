@@ -1,0 +1,6 @@
+[deps]
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
+DashCoreComponents = "1b08a953-4be3-4667-9a23-9da06441d987"
+DashHtmlComponents = "1b08a953-4be3-4667-9a23-24100242a84a"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Redis = "0cf705f9-a9e2-50d1-a699-2b372a39b750"
